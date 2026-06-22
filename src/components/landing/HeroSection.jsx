@@ -16,7 +16,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <img
           src={HERO_IMG}
-          alt="Laser engraving pada permukaan kayu walnut"
+          alt=""
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-[#121212]/85 via-[#121212]/60 to-[#121212]/30" />
